@@ -1,6 +1,6 @@
 {
   "name": "js-object-oriented-class-relations-lab",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Class Relations Lab for Learn.co",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "object orientation",
     "lab"
   ],
-  "author": "Flatiron School",
+  "author": "@gj",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/js-object-oriented-class-relations-lab/issues"
